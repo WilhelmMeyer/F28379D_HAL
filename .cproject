@@ -56,7 +56,7 @@
                                     <listOptionValue value="${C2000WARE_DLIB_ROOT}"/>
                                     <listOptionValue value="${C2000WARE_SFO_INCLUDE}"/>
                                     <listOptionValue value="${CG_TOOL_ROOT}/include"/>
-                                    <listOptionValue value="${PROJECT_ROOT}/hal_lib"/>
+                                    <listOptionValue value="${PROJECT_ROOT}/F28379D_HAL"/>
                                 </option>
                                 <option id="com.ti.ccstudio.buildDefinitions.C2000_22.6.compilerID.ABI.975319517" superClass="com.ti.ccstudio.buildDefinitions.C2000_22.6.compilerID.ABI" value="com.ti.ccstudio.buildDefinitions.C2000_22.6.compilerID.ABI.eabi" valueType="enumerated"/>
                                 <option id="com.ti.ccstudio.buildDefinitions.C2000_22.6.compilerID.DEFINE.1497296443" superClass="com.ti.ccstudio.buildDefinitions.C2000_22.6.compilerID.DEFINE" valueType="definedSymbols">
@@ -106,7 +106,7 @@
                         </toolChain>
                     </folderInfo>
                     <sourceEntries>
-                        <entry excluding="main_test_dual_ab_pwm.c|main_test_single_b_pwm.c|main_test_single_a_pwm.c|main_test_phase_shift_pfm copy.c|examples/adc_ex1_soc_software.c|device/driverlib|2837xD_FLASH_lnk_cpu1.cmd" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+                        <entry excluding="examples/example_pwm_duty_frequency.c|examples/example_pwm_frequency.c|examples/example_complementary.c|examples/example_phase_shift_trailing.c|examples/example_phase_shift.c|examples/example_pwm_duty.c|dev/main_test_complementary_pwm.c|dev/main_test_dual_ab_pwm.c|dev/main_test_phase_shift_pfm copy.c|dev/main_test_single_a_pwm.c|dev/main_test_single_b_pwm.c|device/driverlib|2837xD_FLASH_lnk_cpu1.cmd" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
                     </sourceEntries>
                 </configuration>
             </storageModule>
