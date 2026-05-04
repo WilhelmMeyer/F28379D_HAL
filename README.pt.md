@@ -1,8 +1,19 @@
 # F28379D HAL
 
+![Status](https://img.shields.io/badge/status-alpha-orange)
+![Version](https://img.shields.io/badge/version-v0.1.0-blue)
+
 Biblioteca de Abstração de Hardware para o TMS320F28379D (LAUNCHXL-F28379D).
 
 > English version available: [README.md](README.md)
+
+---
+
+## Status
+
+Esta biblioteca está atualmente em **alpha**. Ela é funcional e ativamente utilizada em pesquisa, mas a API ainda não é estável. Mudanças que quebram compatibilidade podem ocorrer entre versões.
+
+Para verificar qual versão você está utilizando, compare a definição `HAL_VERSION` no arquivo `hal.h` com a versão mais recente disponível no GitHub.
 
 ---
 

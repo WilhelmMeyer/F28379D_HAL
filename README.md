@@ -1,8 +1,19 @@
 # F28379D HAL
 
+![Status](https://img.shields.io/badge/status-alpha-orange)
+![Version](https://img.shields.io/badge/version-v0.1.0-blue)
+
 Hardware Abstraction Library for the TMS320F28379D (LAUNCHXL-F28379D).
 
 > Portuguese version available: [README.pt.md](README.pt.md)
+
+---
+
+## Status
+
+This library is currently in **alpha**. It is functional and actively used in research, but the API is not yet stable. Breaking changes may occur between releases.
+
+To check which version you are using, compare the `HAL_VERSION` definition in `hal.h` with the latest release available on GitHub.
 
 ---
 
