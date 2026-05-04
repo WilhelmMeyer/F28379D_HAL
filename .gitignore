@@ -1,0 +1,10 @@
+CPU1_RAM/
+CPU1_FLASH/
+*.out
+*.map
+*.d_raw
+*.d
+*.obj
+*.xml
+
+dev/
